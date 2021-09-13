@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaswanth-amili
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and Quality Assurance.
 - 🌱 I’m currently learning Javascript and, ReactJS.
 - 💞️ I’m looking to collaborate on beginner level JS projects.
 - 📫 How to reach me amilijaswanth@gmail.com
