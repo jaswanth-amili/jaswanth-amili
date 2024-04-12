@@ -1,4 +1,4 @@
-- 👋 Hi, I’m jaswanth amilineni
+- 👋 Hi, I’m jaswanth amilineni.
 - 👀 I’m interested in web development and Quality Assurance.
 - 🌱 I’m currently learning Javascript and test automation.
 - 💞️ I’m looking to collaborate on beginner level JS projects.
